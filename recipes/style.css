@@ -1,0 +1,39 @@
+.curry-title{
+    background-color: orange;
+    text-align: center;
+}
+
+.curry-paragraph{
+    background-color: black;
+    color:orange;
+    text-align: center;
+}
+
+.curry-ingredients{
+    color:white;
+    background-color: black;
+    text-align: center;
+}
+
+.ingredients-1{
+    background-color: black;
+    color: orange;
+}
+
+.curry-description{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.curry-steps{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.steps-1{
+    background-color: black;
+    color: orange;
+}
+
